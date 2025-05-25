@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git_resipository="https://github.com/xiaoyaohanyue/ppanel-docker-aio.git"
+git_resipository="https://github.com/K1LiG/ppanel-docker-aio.git"
 
 
 check_sys(){
