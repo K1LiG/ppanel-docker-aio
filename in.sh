@@ -222,7 +222,7 @@ main() {
         else
             info "Cloning PPanel script repository..."
         fi
-        git clone https://ghfast.top/https://github.com/perfect-panel/ppanel-script.git
+        git clone https://githubfast.com/perfect-panel/ppanel-script.git
         cd ppanel-script
     else
         if [ "$LANGUAGE" == "CN" ]; then
